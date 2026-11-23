@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-11-23T07:23:30.518618177Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-23T07:35:14.148743829Z",
     "templateType": "trip_j",
     "propertyId": "f4ffa657-a38e-48c4-9883-4a15022d7012",
     "homepageId": "01a2073d-fdcc-7054-83eb-ff12592455ff"
@@ -2918,7 +2918,10 @@
           "koSub": null,
           "enMain": null
         },
-        "color": null
+        "color": {
+          "primary": "#F5F5DC",
+          "secondary": "#053051"
+        }
       },
       "property": {
         "name": "경주 아인키즈풀빌라",
